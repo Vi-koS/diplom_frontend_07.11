@@ -16,6 +16,7 @@
     left: 10%;
     position: absolute;
     top: 80px;
+    z-index: 2;
 }
 
 .cont_1 {
